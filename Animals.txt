@@ -1,0 +1,4 @@
+
+1 CAT Kuba dachowiec MEN 11 1 1 1
+2 DOG kundel Reksio MEN 11 1 1 1
+3 TURTLE Franklin MEN 123 1 1 2
